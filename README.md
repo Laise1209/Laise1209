@@ -18,21 +18,17 @@
 
 </div>
 
-<div align="center"><br><br> 
-<img width="100%" height="260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laise1209&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" />
-</div>
-
-
-<div align="center">
-
-<br>
-<br>
-
-<p align="centre"><b>Contador de visitas</b></p> 
+<div align="center" style="display: flex"><br><br> 
 
 ![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FLaise1209&s=40&c=e100ff&bg=00000000&no=4&ff=digii&tb=Visitantes%3A+&ta=)
 
 <br>
+<br>
+<img width="100%" height="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laise1209&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" />
+  
+
+
 </div>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=130&color=BE1DC0FF&reversal=true&descAlignY=23&fontAlignY=0&fontAlign=0&section=footer"/>
