@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-<img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api?username=Laise1209&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" />
+<img width="47%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laise1209&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" />
 <img width="47%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Laise1209&theme=midnight-purple&hide_border=true" />
 </div>
 
@@ -19,11 +19,6 @@
 
 <div align="center">
 
-![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FLaise1209&s=40&c=e100ff&bg=00000000&no=4&ff=digii&tb=Visitantes%3A+&ta=)
-
-<br>
-<br>
-<img width="100%" height="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laise1209&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
 
